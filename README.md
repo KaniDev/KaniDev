@@ -4,8 +4,8 @@ I'm Jules, a developer from France.\
 In my free time, I tinker with Linux, I build tech things DIY-style and I work on various personal projects.\
 I also like skateboarding and I manage a local Super Smash Bros club.
 
-Professionally, I'm mostly interested in UI/UX and sysadmin, but I'm open to discover other skillsets.
-Here's a sample of my projects...
+Professionally, I'm mostly interested in UI/UX, deployment and sysadmin, but I'm open to discover other skillsets.
+Here's a sample of my personal and academic projects...
  * 🌌 A custom Linux workflow on Arch, using [i3-gaps](https://github.com/Airblader/i3), [picom](https://github.com/yshui/picom) and [polybar](https://github.com/polybar/polybar)
  * 📑 Quite a lot of [scripts](https://github.com/KaniDev/scripts) and [configs](https://github.com/KaniDev/configs)
  * 📱 A mobile Reddit Client written in Flutter
