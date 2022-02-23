@@ -11,6 +11,7 @@ Here's a sample of my projects...
  * 📱 A mobile Reddit Client written in Flutter
  * 📋 A modular Dashboard made with React and NodeJS
  * ⌨️ A hand-made keyboard using open-source [QMK firmware](https://github.com/qmk/qmk_firmware), edited in C
+ * ⚡ A Raspberry Pi server for PiHole, Jellyfin, rtorrent, SSH and Wake on LAN using Docker
  * 🎮 A modded Nintendo Switch using [Hekate](https://github.com/CTCaer/hekate), [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere).
  * 🌲 A Minecraft Server / Discord bot integration using tmux and nodejs on an old repurposed macbook
  
