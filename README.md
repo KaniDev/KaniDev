@@ -16,18 +16,18 @@ Here's a sample of my personal and academic projects...
  * 🌲 A Minecraft Server / Discord bot integration using tmux and nodejs on an old repurposed macbook
  
 
-<img 
-     height="42" src="https://github.com/get-icon/geticon/blob/master/icons/archlinux.svg">
-<img 
-     height="42" src="https://github.com/get-icon/geticon/blob/master/icons/react.svg"> 
-<img 
-     height="42" src="https://github.com/get-icon/geticon/blob/master/icons/bash.svg"> 
-<img 
-     height="42" src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg"> 
-<img 
-     height="42" src="https://github.com/get-icon/geticon/blob/master/icons/c.svg">
-<img 
-     height="42" src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg">
+<code><img 
+     width="45" src="https://github.com/get-icon/geticon/blob/master/icons/archlinux.svg"></code>
+<code><img 
+     width="45" src="https://github.com/get-icon/geticon/blob/master/icons/react.svg"></code>
+<code><img 
+     height="45" src="https://github.com/get-icon/geticon/blob/master/icons/bash.svg"></code>
+<code><img 
+     height="45" src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg"></code>
+<code><img 
+     height="45" src="https://github.com/get-icon/geticon/blob/master/icons/c.svg"></code>
+<code><img 
+     height="45" src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg"></code>
 
 ___
 
