@@ -23,7 +23,7 @@ Here's a sample of my personal and academic projects...
 <code><img 
      height="45" src="https://github.com/get-icon/geticon/blob/master/icons/bash.svg"></code>
 <code><img 
-     height="45" src="https://github.com/get-icon/geticon/blob/master/icons/fastify-icon.svg"></code>
+     height="45" src="https://github.com/get-icon/geticon/blob/master/icons/typescript.svg"></code>
 <code><img 
      height="45" src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg"></code>
 <code><img 
