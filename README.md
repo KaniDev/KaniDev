@@ -2,7 +2,7 @@
 
 I'm Jules, a developer from France.\
 In my free time, I tinker with Linux, I game, I build tech things DIY-style and I work on various personal projects.\
-I also like skateboarding and I manage a local Super Smash Bros club.
+I also like skateboarding and I participate in a local Super Smash Bros club.
 
 Professionally, I'm mostly interested in UI/UX, deployment and sysadmin, but I'm open to discover other skillsets.
 Here's a sample of my personal and academic projects...
