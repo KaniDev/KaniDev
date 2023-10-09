@@ -26,10 +26,6 @@ Here's a sample of my personal and academic projects...
      height="45" src="https://github.com/get-icon/geticon/blob/master/icons/typescript-icon.svg"></code>
 <code><img 
      height="45" src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg"></code>
-<code><img 
-     height="45" src="https://github.com/get-icon/geticon/blob/master/icons/c.svg"></code>
-<code><img 
-     height="45" src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg"></code>
 
 ___
 
